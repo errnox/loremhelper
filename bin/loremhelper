@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+
+require_relative '../lib/loremhelper/cli'
+
+
+Loremhelper::Cli.new.parse
